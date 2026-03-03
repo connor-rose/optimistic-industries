@@ -1,0 +1,12 @@
+title: Optimistic Industries
+
+collections:
+  apps:
+    output: true
+    permalink: /apps/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
