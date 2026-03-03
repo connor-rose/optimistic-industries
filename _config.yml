@@ -1,4 +1,6 @@
 title: Optimistic Industries
+baseurl: "/<optimistic-industries>"
+url: "https://<connor-rose>.github.io"
 
 collections:
   apps:
