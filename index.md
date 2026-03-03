@@ -1,6 +1,6 @@
-—
+---
 title: Home
-—
+---
 
 Welcome to Optimistic Industries. I’m (your name) — creator, builder, thinker.
 

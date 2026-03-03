@@ -1,7 +1,7 @@
-—
+---
 title: Penedex
 permalink: /apps/penedex/
-—
+---
 
 ## Penedex
 

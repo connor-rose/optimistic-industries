@@ -1,7 +1,7 @@
-—
+---
 title: Apps
 permalink: /apps/
-—
+---
 
 ## My Apps
 

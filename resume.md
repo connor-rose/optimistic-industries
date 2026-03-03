@@ -1,7 +1,7 @@
-—
+---
 title: Resume
 permalink: /resume/
-—
+---
 
 ## Your Name
 
